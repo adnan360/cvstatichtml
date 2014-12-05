@@ -90,6 +90,7 @@ li {
 }
 #footer, #footer a {
 	color:#bbb;
+	text-decoration:none;
 }
 
 /* --- RESPONSIVE --- */
