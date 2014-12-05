@@ -85,8 +85,10 @@ li {
 }
 
 #footer {
-	padding:0 0 2em 0;
+	padding:0 0.5em 2em 0.5em;
 	text-align:center;
+}
+#footer, #footer a {
 	color:#bbb;
 }
 
